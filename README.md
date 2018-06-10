@@ -1,0 +1,1 @@
+A learning program that implements the method of learning by explaining experience based on precedents for an example of learning about cups.
